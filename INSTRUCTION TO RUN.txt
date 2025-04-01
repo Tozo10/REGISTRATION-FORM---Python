@@ -1,0 +1,8 @@
+-------------------------------------EXECUTION OF CODE---------------------------------------------
+
+STEP 1 -> OPEN CMD IN THE DIRECTORY WHERE THE FILES ARE PRESENT
+STEP 2 -> WRITE python MAIN.py
+
+ENJOY !!!
+
+[N.B.] Provided you have installed basic Python packages and compiler at first.
