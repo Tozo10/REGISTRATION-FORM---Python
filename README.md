@@ -10,5 +10,5 @@ I and my friend Rohit has made this registration form app using pure Python wher
  ![Screenshot (357)](https://github.com/user-attachments/assets/74874798-576b-4342-9879-9f2d6d0b2ab6)
   This is a very interesting section where I used data analysis technique to calculate the bargraph and pie chart and show it using the Python Matplotlib library. Also Used PANDAS to convert the data from excel into dataframe and calculate the data using NUMPY library. The design credit - Rohit and Logic - Sayantan. Although some ideas for design was from me and some logic idea from Rohit but in general we did this.
 
-We did this project partly for college assignment and also to foster our knowledge in Python and its related librairies.
+We did this project partly for college assignment and also to foster our knowledge in Python and its related librairies regardign Data Analysis.
 
